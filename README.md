@@ -1,6 +1,4 @@
-#gulp-ztpl
-
--------------
+# gulp-ztpl
 
 > [tmodjs](https://github.com/aui/tmodjs)'s gulp version.
 
