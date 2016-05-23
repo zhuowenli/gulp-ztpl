@@ -1,0 +1,35 @@
+{
+  "name": "gulp-ztpl",
+  "version": "1.0.0",
+  "description": "the gulp plugin for tmodjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp && gulp test-stream &&  gulp jshint "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhuowenli/gulp-ztpl"
+  },
+  "keywords": [
+    "gulpplugin",
+    "tmodjs"
+  ],
+  "author": "zhuowenli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuowenli/gulp-ztpl/issues"
+  },
+  "homepage": "https://github.com/zhuowenli/gulp-ztpl",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-jshint": "^1.7.1",
+    "gulp-watch": "^0.6.8"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "through2": "^2.0.0",
+    "art-template": "3.0.x",
+    "uglify-js": "2.4.0",
+    "semver": "2.3.0"
+  }
+}
