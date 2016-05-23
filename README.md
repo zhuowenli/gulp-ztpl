@@ -1,4 +1,4 @@
-gulp-ztpl
+#gulp-ztpl
 
 -------------
 
@@ -52,7 +52,3 @@ $ npm test
 ## More
 
 See [__tmodjs__](https://github.com/aui/tmodjs)
-
-[grunt-tmod](https://github.com/Jsonzhang/grunt-tmod)
-
-_Issues should be reported on the tmodjs [issue tracker](https://github.com/aui/tmodjs/issues)_
