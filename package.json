@@ -1,6 +1,6 @@
 {
   "name": "gulp-ztpl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "the gulp plugin for tmodjs",
   "main": "index.js",
   "scripts": {
